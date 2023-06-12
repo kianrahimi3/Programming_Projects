@@ -1,0 +1,12 @@
+computer
+storage
+abstract
+B-Tree
+storing
+structure
+data
+efficiency
+ADT
+databases
+Data structures
+Abstract data

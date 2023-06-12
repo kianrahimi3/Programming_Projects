@@ -1,0 +1,24 @@
+[A]
+abstract: 13 55 
+adt: 13 
+array: 54 67 12 10 20 
+[B]
+b-tree: 13 
+binary tree: 61 62 63 
+[C]
+computer: 3 54 61 62 63 
+[D]
+data: 3 13 54 55 32 67 12 11 10 20 21 61 
+databases: 13 
+dynamic: 10 
+[E]
+efficiency: 55 
+[M]
+memory: 54 32 67 12 10 20 
+[P]
+paging: 20 
+pointer: 22 
+[S]
+storage: 3 
+storing: 54 
+structure: 3 13 54 55 32 67 12 11 10 21 61 

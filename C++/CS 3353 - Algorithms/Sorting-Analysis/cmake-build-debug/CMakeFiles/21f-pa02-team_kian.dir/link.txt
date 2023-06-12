@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/21f-pa02-team_kian.dir/src/main.cpp.o  -o 21f-pa02-team_kian.exe -Wl,--out-implib,lib21f-pa02-team_kian.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

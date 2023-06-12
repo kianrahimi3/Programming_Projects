@@ -1,0 +1,71 @@
+<3>
+Preface:
+Advanced Data Structures and Algorithm Implementation is a new
+exciting text from Mustang Publishers aimed at upper division
+undergraduate courses or introductory graduate courses.
+<4>
+Some of the topics covered are:
+* Fast String Matching
+* B+ Tree Implementation
+* A* Graph Traversal
+<10>
+In a B+ Tree, the leaf nodes are connected as a doubly linked list.
+<11>
+Here is the part where I start to have some fun
+with the analysis of all this stuff
+Is my algorithm going to work?
+And will the algorithm catch this?
+Or am I doomed to get nothing over
+a B+ on this project?
+If this code is working right,
+that B+ should not appear in the index.
+There's an A* here too
+This is doubly linked, but not a list.
+<20>
+There are 23 players on this sports team.
+They each get 01 tries to get stuff right.
+A refrigeration algorithm would be complicated.
+But a B+ Tree would be nice.
+<54>
+Coq Au Vin is super delicious.
+<55>
+The Coq Au part means "cooked with."
+The Vin part means wine.
+It's not alcoholic, but amazing. I give it an A+.
+Make a doubly linked list with all that.
+Do you want to make an algorithm?
+<56>
+This is where I really test my algorithm.
+<57>
+Algorithm
+<58>
+Algorithm Analysis
+<59>
+A* Algorithm Analysis
+<60>
+B+ Algorithm Analysis
+<61>
+B+ Tree Algorithm Analysis
+<62>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<63>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<64>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<65>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<66>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<77>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<88>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<99>
+ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ
+<100>
+ALGORITHM
+<101>
+ALGORITHM!!!!
+<102>
+AlGoRiThM.!?
+<-1>
