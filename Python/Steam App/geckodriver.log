@@ -1,0 +1,45 @@
+1693702583641	geckodriver	INFO	Listening on 127.0.0.1:51431
+1693702586693	mozrunner::runner	INFO	Running command: "C:\\Users\\kianr\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--headless" "--remo ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kianr\\AppData\\Local\\Temp\\rust_mozprofileBzo0lx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693702587632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693702587685	Marionette	INFO	Listening on port 51458
+WebDriver BiDi listening on ws://127.0.0.1:51432
+Read port: 51458
+1693702587817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51432/devtools/browser/4e94216a-96c3-40a7-8826-ca210dbc763f
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51631
+1693702688141	mozrunner::runner	INFO	Running command: "C:\\Users\\kianr\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--headless" "--remo ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kianr\\AppData\\Local\\Temp\\rust_mozprofileh9mZAd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693702688409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693702688462	Marionette	INFO	Listening on port 51644
+WebDriver BiDi listening on ws://127.0.0.1:51632
+Read port: 51644
+1693702688596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51632/devtools/browser/bae9ea26-03d2-4e12-baac-84f284683874
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51840
+1693702836456	mozrunner::runner	INFO	Running command: "C:\\Users\\kianr\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--headless" "--remo ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kianr\\AppData\\Local\\Temp\\rust_mozprofileAw4WjN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693702836744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693702836806	Marionette	INFO	Listening on port 51854
+WebDriver BiDi listening on ws://127.0.0.1:51841
+Read port: 51854
+1693702837040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51841/devtools/browser/dbb86652-411e-4e65-bf7f-eb5f85bb2182
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
